@@ -8,7 +8,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Download ascn nuccore test.txt
-      run: python3 ASCN _Download.py 
+      run: python3 ASCN _Download.py nuccore test.txt
 
   PEP8:
     runs-on: ubuntu-latest
