@@ -6,13 +6,18 @@ import sys
 def fetch_sequences(database, accession_numbers):
     Entrez.email = "fakeemail@exemplo.com"
     Entrez.tool = "fetch_sequences.py"
-    
+
     # Join the accession numbers into a comma-separated string
     accession_list = ",".join(accession_numbers)
-    
-    fetch_results = Entrez.efetch(db=database, id=accession_list, rettype="fasta", retmode="text")
-    sys.stdout.write(fetch_results.read())
-    fetch_results.close()
+
+    try:
+        # Fetch the sequences
+        fetch_results = Entrez.efetch(db=database, id=accession_list, rettype="fasta", retmode="text")
+        sys.stdout.write(fetch_results.read())
+        fetch_results.close()
+    except Exception as e:
+        print(f"Error fetching sequences: {e}")
+        sys.exit(1)
 
 if __name__ == '__main__':
     if len(sys.argv) != 3:
@@ -24,6 +29,7 @@ if __name__ == '__main__':
 
     try:
         with open(file_path) as file:
+            # Filter out empty lines and strip whitespace from each line
             accession_numbers = [line.strip() for line in file if line.strip()]
     except FileNotFoundError:
         print(f"Error: File '{file_path}' not found.")
@@ -34,4 +40,3 @@ if __name__ == '__main__':
         sys.exit(1)
 
     fetch_sequences(database, accession_numbers)
-
