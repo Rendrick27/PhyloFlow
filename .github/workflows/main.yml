@@ -2,11 +2,12 @@ name: CI/CD
 
 on: push
 
-jobs:
   ASCN:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: Install Bio 
+      run: pip install Bio
     - name: Download 
       run: python3 ASCN_Download.py nuccore test.txt
 
