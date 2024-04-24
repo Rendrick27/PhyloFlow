@@ -1,0 +1,7 @@
+Building DAG of jobs...
+MissingInputException in line 8 of /home/rendrick27/Documents/GitHub/Assignment_01/Snakefile:
+Missing input files for rule all:
+ffasta/COI_align.fasta
+ffasta/28S_rRNA_align.fasta
+ffasta/ITS–2_align.fasta
+ffasta/18S_rRNA_align.fasta
