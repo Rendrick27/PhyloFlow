@@ -5,11 +5,11 @@ from Bio.SeqRecord import SeqRecord
 
 def trim_edges(sequences, threshold):
     """
-    Trims the edges of aligned sequences based on the threshold 
+    Trims the edges of aligned sequences based on the threshold
         of nucleotide presence.
 
     Args:
-        sequences (list of SeqRecord): The list of sequence records 
+        sequences (list of SeqRecord): The list of sequence records
             to be trimmed.
         threshold (float): The percentage of sequences that must have
             a nucleotide (not a gap '-') at a position to include that
@@ -41,7 +41,7 @@ def trim_edges(sequences, threshold):
 def main():
     if len(sys.argv) != 4:
         print("Usage: python script.py <input_fasta> <output_fasta>"
-            "<threshold>")
+              "<threshold>")
         sys.exit(1)
 
     input_fasta = sys.argv[1]
