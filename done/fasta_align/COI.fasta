@@ -1,4 +1,4 @@
->OP394113.1 Paramacrobiotus gadabouti voucher MD50.1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>Paramacrobiotus_gadabouti_sp._nov._MD50.1
 ------------------------------------------gtatttggtttatgagct
 gccacagttggtacatc--tttaagtttcattattcgctctgaattaagacaacctggac
 aactatttaacgatgagcaattat--ttaatgtgacggtaactagacaagcattcgtaat
@@ -26,7 +26,7 @@ taatacttccttttttgacccggcag----------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->OP394114.1 Paramacrobiotus gadabouti voucher MD50.4 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>Paramacrobiotus_gadabouti_sp._nov._MD50.4
 ------------------------------------------------------------
 --cacagttggtacatc--tttaagtttcattattcgctctgaattaagacaacctggac
 aactatttaacgatgagcaattat--ttaatgtgacggtaactagacatgcattcgtaat
@@ -54,7 +54,7 @@ taatacttccttttttgacccggcag----------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MW593931.1 Macrobiotus rybaki isolate GR.011.1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>alpha
 -----------------------------gactctttattttatttttgggctttgggcc
 gcatgtgttgggacatc--tcttagatttattattcgaagagaattaagacaacctggaa
 tcttatttggagacgaacaaatat--ataatgttacagtaacaagacatgcatttattat
@@ -82,7 +82,7 @@ t-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MK578905.1 Mesobiotus datanlanicus strain VN.026 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+>beta
 ------------------------------------------------ggtttgtgatcg
 gcctgtttaggcacttc--tttaagtataattgtacgatttgaacttagacaacctggga
 gcctattaaatgatgaacaaattt--ataacgtaagagtaaccaggcacgccttcattat
@@ -110,7 +110,7 @@ tgccataagaacaattggactcttagg---------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->FJ435802.1 Minibiotus furcatus isolate Tar527 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+>Minibiotus_furcatus
 -----------------------------caccttatattttattttcggcctatgggca
 gccacggtaggaacttc--tctaagtttcattattcgatcagaacttagtcaacccggac
 agctattttgtgacgaacaacttt--ataacgttactgttactagacacgctttcgtaat
@@ -138,7 +138,7 @@ t-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->FJ435803.1 Minibiotus gumersindoi isolate Tar710 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+>Minibiotus_gumersindoi
 ------------------------------------------------------------
 -------taggcacctc--tttaagctttattatccgctcagaactaagtcaaccaggaa
 gattattgggcgacgaacaaattt--ttaatgtaacagtaaccagacatgcctttgtaat
@@ -166,7 +166,7 @@ ttgattttttggccaccctgaagt------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->ON005160.1 Minibiotus intermedius isolate Min4 GR cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>Minibiotus_intermedius
 ------------------------------------------------------------
 --tactgtgggaacctc--tttaagattcattattcgatcagaattaagccaaccaggta
 gtcttctaggagatgatcagattt--ttaacgttactgtaaccagacacgcatttattat
@@ -194,7 +194,7 @@ ttgattttttggt-----------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MT023412.1 Minibiotus ioculator strain ZA.274 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>Minibiotus_ioculator
 -----------------------------aacactatatctcattttttgtttatggtca
 gcaagagtaggaacctc--tcttagctttattattcgatcagaattaagacaaccaggac
 atttgtttagggacgaacaactat--acaatgttaccgtaacaagacacgcatttattat
@@ -222,7 +222,7 @@ t-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MT023413.1 Minibiotus pentannulatus strain TZ.027 haplotype 1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>Minibiotus_pentannulatus_1
 ---------------------------------------------------ctctgagcg
 gcgacattaggcacatc--gttaagatttatcattcgttcagaattaagacaacctggtc
 aattattttgtgacgaacaactct--ataatgtaaccgttactagtcatgcttttattat
@@ -250,7 +250,7 @@ tgcaataagaacaattggactattaggttttatcgttt----------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MT023414.1 Minibiotus pentannulatus strain TZ.027 haplotype 2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>Minibiotus_pentannulatus_2
 ---------------------------------------------------ctctgagcg
 gcgacattaggcacatc--gttaagatttatcattcgttcagaattaagacaacctggtc
 aattattttgtgacgaacagctct--ataatgtaaccgttactagtcatgcttttattat
@@ -278,7 +278,7 @@ tgcaataagaacaattggactattaggttttattgttt----------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH675999.1 Paramacrobiotus sp. strain AU.044 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_AU
 -----------------------------------------cgtatttggtttatgagct
 gccacagttggtacatc--tttaagtttcattattcgctctgaattaagacaacctggac
 aactatttaacgatgagcaattat--ttaatgtgacggtaactagacatgcattcgtaat
@@ -306,7 +306,7 @@ taatacttccttttttgacccggcaggaggagga--------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676000.1 Paramacrobiotus sp. strain BR.009 haplotype 1 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_BR_1
 ---------------------------------ctatattttatttttggcttatggacc
 gctacaattggaacatc--tctaagttttattgtacgctcagaattaagacaaccaggaa
 acttattcaacgatgaacaattat--ttaatgtaacagtcacaagacatgcattcgtgat
@@ -334,7 +334,7 @@ taatacatccttctttgatcctgcagggggaggg--------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676001.1 Paramacrobiotus sp. strain BR.009 haplotype 2 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_BR_2
 ---------------------------------ctatattttatttttggcttatggacc
 gctacaattggaacatc--tctaagttttattgtacgctcagaattaagacaaccaggaa
 acttattcaacgatgaacaattat--ttaatgttacagtcacaagacatgcattcgtgat
@@ -362,7 +362,7 @@ taatacatccttctttgatcctgcagggggaggg--------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676002.1 Paramacrobiotus sp. strain BR.009 haplotype 3 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_BR_3
 ---------------------------------ctatattttatttttggcttatggacc
 gctacaattggaacatc--tctaagttttattgtacgctcagaattaagacaaccaggaa
 acttattcaacgatgaacaattat--ttaatgtaacagtcacaagacatgcattcgtgat
@@ -390,7 +390,7 @@ taatacatccttctttgatcctgcagggggaggg--------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676003.1 Paramacrobiotus sp. strain FR.077 haplotype 1 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_FR_1
 ------------------------------------------------------------
 ------------acatc--tttaagtttcattattcgctctgaattaagacaacctggac
 aactatttaacgatgagcaattat--ttaatgtgacggtaactagacatgcattcgtaat
@@ -418,7 +418,7 @@ tcaggtaattattcactttagaggaaaatcccttactttcggtcatttgggaataatt--
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676004.1 Paramacrobiotus sp. strain FR.077 haplotype 2 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_FR_2
 ------------------------------------------------------------
 ------------acatc--tttaagtttcattattcgctctgaattaagacaacctggac
 aactatttaacgatgagcaattat--ttaatgtgacggtaactagacatgcattcgtaat
@@ -446,7 +446,7 @@ tcaggtaattattcactttagaggaaaatcccttactttcggtcatttgggaataatt--
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676005.1 Paramacrobiotus sp. strain HU.012 haplotype 1 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_HU_1
 --------------------------------------------tttgggcttatgagct
 gcaacggttggaacttc--tttaagctttattatccgttcagagctgagacaacctgggc
 aattattcaataacgaacaactat--tcaatgtaacagtaacaagacatgcatttgtaat
@@ -474,7 +474,7 @@ taacacctctttctttgacccagccgggggaggggaccctattc----------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676006.1 Paramacrobiotus sp. strain HU.012 haplotype 2 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_HU_2
 --------------------------------------------tattggcttatgagct
 gcaacggttggaacttc--tttaagctttattatccgttcagagctgagacaacctgggc
 aattattcaataacgaacaactat--tcaatgtaacagtaacaagacatgcatttgtaat
@@ -502,7 +502,7 @@ taacacctctttctttgacccagccgggggaggggaccctattc----------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676008.1 Paramacrobiotus sp. strain MG.002 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_MG_1
 -----------------------------aacattatacttcatttttggattatgaaca
 gctactgtaggaacctc--tttaagatttattatccgatcagaattaagccaaccaggta
 atctattcagcgacgaacaaatat--ttaacgtaacagtaaccagccatgcttttattat
@@ -530,7 +530,7 @@ taacacatctttctttgatcccgcaggtggtgga--------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676009.1 Paramacrobiotus sp. strain NO.386 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_NO
 ---------------------------------------------catggcttatgagca
 gccacaatcgggacctc--tcttagctttattatccgatctgaactaagccagccaggac
 aactttttggagacgaacaattgt--ttaatgtaacggtgacaagacatgcatttgtgat
@@ -558,7 +558,7 @@ caacacatctttttttgatccagcggggggggga--------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676010.1 Paramacrobiotus sp. strain NZ.001 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_NZ
 -----------------------------aaccctatactttctatttgggctatgagcc
 gctacagtaggaacctc--tttaagtcttattattcgctcagagctcagacaaccaggac
 agctatttaacgatgaacaattgt--ttaatgtaactgtaaccagacacgcatttgtcat
@@ -586,7 +586,7 @@ taatacttctttctttgacccggcaggaggtgga--------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676014.1 Paramacrobiotus sp. strain PT.048 haplotype 1 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_PT_1
 -------------------------------------atttcgtatttggtttatgagct
 gccacagttggtacatc--tttaagtttcattattcgctctgaattaagacaacctggac
 aactatttaacgatgagcaattat--ttaatgtgacggtaactagacatgcattcgtaat
@@ -614,7 +614,7 @@ taatacttccttttttgacccggcaggaggagga--------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676015.1 Paramacrobiotus sp. strain PT.048 haplotype 2 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_PT_2
 -------------------------------------atttcgtatttgggttatgagct
 gccacagttggtacatc--tttaagtttcattattcgctctgaattaagacaacctggac
 aactatttaacgatgagcaattat--ttaatgtgacggtaactagacatgcattcgtaat
@@ -642,7 +642,7 @@ taatacttccttttttgacccggcaggaggagga--------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676016.1 Paramacrobiotus sp. strain TN.014 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_TN
 ------------------------------------------------------------
 ------------acatc--tttaagtttcattattcgctctgaattaagacaacctggac
 aactatttaacgatgagcaattat--ttaatgtgacggtaactagacatgcattcgtaat
@@ -670,7 +670,7 @@ tcaggtaattattcactttagaggaaaatcccttactttcggtcatttgggaataatt--
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676017.1 Paramacrobiotus sp. strain TZ.018 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_aff._richtersi_TZ
 -----------------------------aaccctttattttattttcggactatgagct
 gctacaattggcacgtc--actaagatttattgtacgatcagagcttagacagccaggaa
 atctttttaatgatgaacagttat--ttaatgttacagtaacaagacacgcttttgtaat
@@ -698,7 +698,7 @@ t-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MK041020.1 Paramacrobiotus arduus isolate PRODO-1_C2702_MrUMBF1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+>Paramacrobiotus_arduus
 ------------------------------------------------------------
 ---------ggaacctc--tcttaggtttattatccgctcagagttaagtcaaccaggac
 aaatattcggagacgagcaattat--ttaatgtcactgtgactagacacgcattcgtaat
@@ -726,7 +726,7 @@ taatacttcattctttgacccagctggaggaggagatccaattctttat-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH675998.1 Paramacrobiotus areolatus strain NO.385 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_areolatus
 -------------------------------ctctatattttatctttgggttatgagct
 gctactgtaggaacatc--tctaagttttattattcgatccgaactcagtcaacctggat
 acctatttgcagatgaacaactct--acaatgtaacagttacaagacatgcttttattat
@@ -754,7 +754,7 @@ t-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MK041019.1 Paramacrobiotus celsus isolate PIANE_DI_MOCOGNO-3_C2112_MrPIAM3 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+>Paramacrobiotus_celsus
 ------------------------------------------------------------
 ---------ggcacctc--tttaagctttattattcgatctgagctaagacaaccaggac
 aattgttcagagacgaacaacttt--ttaatgttacagtaacaagtcatgcctttgtaat
@@ -782,7 +782,7 @@ taatacttctttttttgaccctgccggaggaggagacccaatcttatac-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676007.1 Paramacrobiotus sp. strain IT.048 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_cf._klymenki_IT
 -----------------------------cacattatattttatttttggcttatgggca
 gcaacagtaggaactgc--tcttagttttattattcgttcagaattaagacaaccaggcc
 aactatttagagacgaacaattat--acaatgtcactgttacaagtcatgcatttattat
@@ -810,7 +810,7 @@ c-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676013.1 Paramacrobiotus sp. strain PT.006 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_cf._klymenki_PT
 -----------------------------taccctatatttcattttcggattatgagca
 gcaacagtaggaactgc--ccttagttttattattcgatcagaawtaagacaaccaggac
 aattatttagggatgaacaattat--acaatgtaactgttacaagccatgcatttattat
@@ -838,7 +838,7 @@ t-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MK041015.1 Paramacrobiotus depressus isolate ANDALO-1_C2762_MrAND1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+>Paramacrobiotus_depressus
 ------------------------------------------------------------
 ---------ggtacctc--attaagcttcattattcgatctgaactaagccaaccaggac
 aactgtttggagacgagcaattat--ttaatgtgacagtaacaagacatgcatttgttat
@@ -866,7 +866,7 @@ taacacctctttttttgatcctgcaggaggaggagaccctattctatac-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MN097837.1 Paramacrobiotus experimentalis isolate MAD-TAR11 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+>Paramacrobiotus_experimentalis
 ----------------------------attgggtctccaccacctgcgggatcaaagaa
 agatgtgttaaaatttcggtctaaaagaagtattgtaattgcaccagcgagtactggtag
 ggccaataatagaagaatggctgtgattaacacggatcaaacaaatagaggtatttgttc
@@ -894,7 +894,7 @@ taataaatctt-----------------aaagaggttccta--------cagtagctgt-
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676011.1 Paramacrobiotus fairbanksi strain PL.018 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_fairbanksi_PL
 -----------------------------gactctctattttatttttgggctttgggca
 gccaccattgggacctc--tttgagatttattatccgatctgaattaagccaacctggac
 aattgtttgcagacgagcaattat--ttaatgttacagtaacaagacatgcctttgttat
@@ -922,7 +922,7 @@ t-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MT260372.1 Paramacrobiotus filipi strain MY.098 haplotype 1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>Paramacrobiotus_filipi_1
 -----------------------------caccttatatttcatttttggtctttgagca
 gcgaccgtagggacgtc--tttaagatttattgttcgctcagaattgagtcaacctggac
 aactattcaacgatgaacaactat--tcaatgtaacagtcactagtcatgcctttgtaat
@@ -950,7 +950,7 @@ t-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MT260373.1 Paramacrobiotus filipi strain MY.098 haplotype 2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>Paramacrobiotus_filipi_2
 -----------------------------caccttatatttcatttttggtctttgagca
 gcgaccgtagggacgtc--tttaagatttattgttcgctcagaattgagtcaacctggac
 aactattcaacgatgaacaactat--tcaatgtaacagtcactagtcatgcctttgtaat
@@ -978,7 +978,7 @@ t-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MF568534.1 Paramacrobiotus lachowskae cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+>Paramacrobiotus_lachowskae
 ---------------------------------------------------ttatgagct
 gccacaattggaacatc--tctaagatttactattcgatcagagcttagacaacccggga
 actttttttcagacgaacaattat--ttaatgtagttgtaacaagacatgcctttattat
@@ -1006,7 +1006,7 @@ ttgattttt---------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->LC637242.1 Paramacrobiotus metropolitanus TYO mitochondrial COI gene for cytochrome c oxidase I, complete cds
+>Paramacrobiotus_metropolitanus
 atattttctacaaatcacaaagatattggaacactatactttatttttggactttgagct
 gcaactgtagggacttc--attaagatttttattacgatcagaattaagacaacctggaa
 atctatttgaaaatgaacaaatat--ttaatgtagctgttacaagacatgcttttgttat
@@ -1034,7 +1034,7 @@ attaggatcagtaatctcaacactagctgtaatttttttattttttattgtatgagaaag
 actaatctctattcgacaaagaaataatatttatattaattcactaaaagaatgaaataa
 tatagcaccacctgcaccccatacttataatcaaatttccattttaataataaaatattt
 taaatacttgagaacaacttaa
->MK040994.1 Paramacrobiotus richtersi isolate CLARE_ISLAND-3_C2714_MrCIIM2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+>Paramacrobiotus_richtersi
 ------------------------------------------------------------
 ---------ggaacttc--tctaagatttattatccgatcagaattaagacaacctggtc
 aattattcggagatgaacaattat--ttaatgttacagtaacaagccatgcatttgtgat
@@ -1062,7 +1062,7 @@ taacacctcattttttgatccagcgggaggaggagacccaattctttat-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->OK662995.1 Paramacrobiotus richtersi isolate S38.Par.1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>Paramacrobiotus_richtersi_S38_1
 ------------------------------------------------------------
 -------------------------atttattatccgatcagaattaagacaacctggtc
 aattattcggagatgaacaattgt--ttaatgttacagtaacaagccatgcatttgtgat
@@ -1090,7 +1090,7 @@ tttactagccttgccggtattagcaggagcaatcactatactactacttgaccgaaattt
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MK040996.1 Paramacrobiotus spatialis isolate FORMIGINE-2_C2680_MrFORM2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+>Paramacrobiotus_spatialis}
 ------------------------------------------------------------
 ---------ggaacttc--cctaagttttattatccgatctgaattaagacaaccaggtc
 aactaattggtgacgaacaaattt--ttaatgtcactgtaaccagacacgcatttgttat
@@ -1118,7 +1118,7 @@ caacacttctttttttgacccatcgggaggaggagaccccattctctat-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->OK662996.1 Paramacrobiotus spatialis isolate S107.Par.1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>Paramacrobiotus_spatialis_S107_1
 ------------------------------------------------------------
 -----------------------------------------gaattaagacaaccaggtc
 aactaattggtgacgaacaaattt--ttaatgtcactgtaaccagacacgcatttgttat
@@ -1146,7 +1146,7 @@ actattggcccttcccgtattagcaggagctatcacgatactactactagatcgaaatt-
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MH676018.1 Paramacrobiotus tonollii strain US.035 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+>Paramacrobiotus_tonolli_US
 -----------------------------tacactttattttattttcggcttatgagca
 gctacagtaggcacatc--attaagatttattattcgatccgaattaagacaacccggat
 atctatttagagatgagcaactat--ataatgttacagtgacaagacatgcatttattat
@@ -1174,7 +1174,7 @@ taacacatctttctttgatccagcaggaggggga--------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MN888322.1 Sisubiotus spectabilis strain FI.067 haplotype 2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>gamma
 -------------------------------------------------------gagca
 gctacagtaggaacctc--attaagctttattattcgatcagagttaagccaacctggaa
 ttcttataaaagacgaacagcttt--ataatgtgactgtaaccagacacgcttttatcat
@@ -1202,7 +1202,7 @@ t-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MN888328.1 Tenuibiotus cf. ciprianoi ES086 strain ES.086 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>Tenuibiotus_cf._ciprianoi
 -----------------------------aacactttattttatttttggcctatgggca
 gccacagtagggacctc--tctaagatttattatccgctcagagcttagccaacctggcc
 acttattttctgatgaacaacttt--acaatgttactgtcacaagacacgcgtttattat
@@ -1230,7 +1230,7 @@ c-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MN888329.1 Tenuibiotus danilovi strain KG.128 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>Tenuibiotus_danilovi
 ------------------------------------------------------------
 ---------------------------------------------------------gga
 atctattttctgatgaacaattat--acaatgtcaccgtgacaagtcatgcatttattat
@@ -1258,7 +1258,7 @@ ttgattttttgg------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MN888330.1 Tenuibiotus tenuiformis strain KG.140 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+>Tenuibiotus_tenuiformis
 -----------------------------gacactttattttatttttggtctatgggca
 gctacagtaggcacatc--gctcagatttatcattcgatcagaattaagccaacctggac
 atttattctcggatgaacaatttt--acaatgttacagtcactagacatgcttttattat
@@ -1286,7 +1286,7 @@ t-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->KX810042.1 Tenuibiotus voronkovi haplotype 1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+>Tenuibiotus_voronkovi
 ------------------------------------------------------------
 ---acagtgggcacttc--cttaagatttattatccgttcagaattaagccaaccaggac
 atttattttctgacgaacaatttt--ataatgtaacagtaaccagtcatgcttttattat
@@ -1314,7 +1314,7 @@ taacacctctttttttgatccggc------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------
->MN444827.1 Tenuibiotus zandrae cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+>Tenuibiotus_zandrae
 -----------------------------gacactatattttatttttggcctatgagct
 gctacggtagggacctc--tctaaggtttattattcgttcagaattaagccaaccaggac
 atttattttctgacgaacaatttt--ataatgtaacagtaactagtcatgcctttattat

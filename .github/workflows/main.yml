@@ -3,14 +3,34 @@ name: CI/CD
 on: push
 
 jobs:
-  ASCN:
+  Dockerfile:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Install Bio 
-      run: pip install Bio
-    - name: Download 
-      run: python3 ASCN_Download.py nuccore test.txt
+
+    - name: Log in to Docker Hub
+      uses: docker/login-action@v1
+      with:
+        username: ${{ secrets.DOCKERHUB_USERNAME }}
+        password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+    - name: Build and push Docker image
+      uses: docker/build-push-action@v2
+      with:
+        context: .
+        file: ./Dockerfile
+        push: true
+        tags: rendrick27/snakemake:latest
+
+  Snakemake:
+    needs: Dockerfile
+    runs-on: ubuntu-latest
+    container:
+      image: rendrick27/phylo_flow:latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run Snakemake
+      run: snakemake --use-conda all --cores 1
 
   PEP8:
     runs-on: ubuntu-latest

@@ -1,9 +1,9 @@
->OP394210.1 Paramacrobiotus gadabouti voucher MD50.1 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_gadabouti_sp._nov._MD50.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----ta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -31,12 +31,12 @@ aacca-aagtgcttaggttccgg-------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->OP394211.1 Paramacrobiotus gadabouti voucher MD50.2 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_gadabouti_sp._nov._MD50.2
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----ta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -64,12 +64,12 @@ aacca-aagtgcttaggttccgg-------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->OP394212.1 Paramacrobiotus gadabouti voucher MD50.4 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_gadabouti_sp._nov._MD50.4
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----ta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -97,7 +97,7 @@ aacca-aagtgcttaggttccgg-------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MW588029.1 Macrobiotus rybaki isolate GR.011.1 small subunit ribosomal RNA gene, partial sequence
+>alpha
 ------------------------------------------------------------
 ------------------------------------------------------------
 -atcgtc-aattttacacggataactgtggtaattctagagctaatacgtgcaattagct
@@ -130,7 +130,7 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgaa-------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MK584659.1 Mesobiotus datanlanicus strain VN.026 small subunit ribosomal RNA gene, partial sequence
+>beta
 ------------------------------------------------------------
 ------------------------------------------------------------
 --tcgta-tatcctacacggataactgaggtaattcttcagctaatacgtgctacaagct
@@ -163,7 +163,7 @@ aaccacaagtgcttaggttccgggggaagtatggttgcaaagctg---------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->FJ435746.1 Minibiotus furcatus isolate Tar527 18S ribosomal RNA gene, partial sequence
+>Minibiotus_furcatus
 ----------------------tcatatgcttgtctcaaagattaagccatgcatgtcta
 agtacttgctataacaaggcgaaaccgcgaatggctcattaaatcagttatggttcacta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
@@ -196,7 +196,7 @@ cttagagg----------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->FJ435748.1 Minibiotus gumersindoi isolate Tar710 18S ribosomal RNA gene, partial sequence
+>Minibiotus_gumersindoi
 ----------------------tcatatgcttgtctcaaagattaagccatgcatgtcta
 agtacttgctttaacaaggcgaaaccgcgaatggctcattaaatcagttatggttcacta
 gatcgta-tattttacacggataactgtggtaattctagagctaatacgtgcaatcagct
@@ -229,7 +229,7 @@ ccctgccctttgtacacaccgcccgtcgctactaccgattgaatgatttagtgaggtctt
 cggactggccatcgaggctgccgcaaggtggcttcgtctggttgggaagacgaccaaact
 ggctcatttagaggaagtaaaagtcgtaacaaggtttcc---------------------
 ------
->ON005189.1 Minibiotus intermedius isolate Min4 GR small subunit ribosomal RNA gene, partial sequence
+>Minibiotus_intermedius
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -262,7 +262,7 @@ ccctgccctttgtacacaccgcccgtcgctactaccgattgaatgatttagtgaggtctt
 cggactggccatcgaggctgccgcaaggtggcttcgtctggttgggaagacgaccaaact
 gactcatt----------------------------------------------------
 ------
->MT023998.1 Minibiotus ioculator strain ZA.274 small subunit ribosomal RNA gene, partial sequence
+>Minibiotus_ioculator
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------gtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
@@ -295,7 +295,7 @@ ttcttggatcgtcgcaagacgaactactgcgaaagcattgc-------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MT023999.1 Minibiotus pentannulatus strain TZ.027 small subunit ribosomal RNA gene, partial sequence
+>Minibiotus_pentannulatus_1
 ------------------------------------------------------------
 ----------------------------------------------------------ta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaacc-gct
@@ -328,7 +328,7 @@ gacgaagg----------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MT023999.1 Minibiotus pentannulatus strain TZ.027 small subunit ribosomal RNA gene, partial sequence
+>Minibiotus_pentannulatus_2
 ------------------------------------------------------------
 ----------------------------------------------------------ta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaacc-gct
@@ -361,7 +361,7 @@ gacgaagg----------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->OK663227.1 Minibiotus sp. S69.01 isolate S69.Min.1 small subunit ribosomal RNA gene, partial sequence
+>Minibiotus_sp.
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------ggataactgtggtaattctagagctaatacgtgcaatcagct
@@ -394,12 +394,12 @@ ttcttggatcgtcgcaagacgaactactgcga----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664932.1 Paramacrobiotus sp. strain AU.044 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_aff._richtersi_AU
 ------------------------------------------------------------
 ------------------------------------------------------------
 -atcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -427,12 +427,12 @@ a-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664934.1 Paramacrobiotus sp. strain BR.009 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_aff._richtersi_BR_1
 ------------------------------------------------------------
 ----------------------------------------------------------ta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcttcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagsgcatggtctcgtaccggcgccagatct
+cgtttcttcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagsgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttacgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -460,12 +460,12 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctga--------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664935.1 Paramacrobiotus sp. strain FR.077 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_aff._richtersi_FR_1
 ------------------------------------------------------------
 -----------------------------------------------------------a
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -493,12 +493,12 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgaaactaaa-------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664936.1 Paramacrobiotus sp. strain HU.012 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_aff._richtersi_HU_1
 ------------------------------------------------------------
 ---------------------------------------------------------tag
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccctcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccctcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -526,12 +526,12 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaag------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664938.1 Paramacrobiotus sp. strain MG.002 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_aff._richtersi_MG_1
 ------------------------------------------------------------
 ----------------------------------------------------------ta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcttcg-gaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcttcg-gaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttacgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -559,12 +559,12 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctga--------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664939.1 Paramacrobiotus sp. strain NO.386 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_aff._richtersi_NO
 ------------------------------------------------------------
 ------------------------------------------------------------
 -atcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -592,12 +592,12 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgaa-------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664940.1 Paramacrobiotus sp. strain NZ.001 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_aff._richtersi_NZ
 ------------------------------------------------------------
 ----------------------------------------------------------ta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -625,12 +625,12 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgaaactaaag------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664944.1 Paramacrobiotus sp. strain PT.048 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_aff._richtersi_PT_1
 ------------------------------------------------------------
 ----------------------------------------------------------ta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagsgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagsgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -658,12 +658,12 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgaa-------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664945.1 Paramacrobiotus sp. strain TN.014 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_aff._richtersi_TN
 ------------------------------------------------------------
 ----------------------------------------------------------ta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -691,12 +691,12 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgaaactaa--------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664933.1 Paramacrobiotus sp. strain TZ.018 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_aff._richtersi_TZ
 ------------------------------------------------------------
 ----------------------------------------------------------ta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcttcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcttcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttacgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -724,12 +724,12 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgaaactaaa-------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MK041032.1 Paramacrobiotus arduus isolate PRODO-1_C2703_PrUMBF1 18S ribosomal RNA gene, partial sequence
+>Paramacrobiotus_arduus
 ------------------------------------------------------------
 -------------------------cgcgaatggctcattaaatcagttatggttcacta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -757,12 +757,12 @@ cgaggtaatgattaataggaacagacggggg-cattcgtattgcggcgttagagg-----
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664931.1 Paramacrobiotus areolatus strain NO.385 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_areolatus
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----ta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaatcagct
-cgcttccttgtggagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aaactggtgactctgaataaccgaagcggagcgcatggtctcgtaccggcgccagatct
+cgcttccttgtggagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taaactggtgactctgaataaccgaagcggagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttacgttcctaacaaggctataacggg
 taacggggtattagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccggcacggggaggtagtgacgaaaaata
@@ -790,12 +790,12 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgaaact----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MK041031.1 Paramacrobiotus celsus isolate PIANE_DI_MOCOGNO-1_C2112_PrPIAF1 18S ribosomal RNA gene, partial sequence
+>Paramacrobiotus_celsus
 ------------------------------------------------------------
 ---------------------------cgaatggctcattaaatcagttatggttcacta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -823,7 +823,7 @@ cgaggtaatgattaataggaacagacggggg-cattcgtattgcggcgttagagg-----
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664937.1 Paramacrobiotus sp. strain IT.048 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_cf._klymenki_IT
 ------------------------------------------------------------
 ------------------------------------------------------------
 -atcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
@@ -856,7 +856,7 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgaaact----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664943.1 Paramacrobiotus sp. strain PT.006 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_cf._klymenki_PT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---ctga-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
@@ -889,12 +889,12 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgaaact----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MK041030.1 Paramacrobiotus depressus isolate PASSO_BALLINO-1_C2693_PrBATF2 18S ribosomal RNA gene, partial sequence
+>Paramacrobiotus_depressus
 ------------------------------------------------------------
 -------------------------cgcgaatggctcattaaatcagttatggttcacta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -922,12 +922,12 @@ cgaggtaatgattaataggaacagacggggg-cattcgtattgcggcgttagagg-----
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MN073468.1 Paramacrobiotus experimentalis isolate MAD-TAR11 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_experimentalis
 ---------------------------------------------------gcatgtctc
 agtacttgctataacaaggcgaaaccgcgaatggctcattaaatcagttatggttcacta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcttcg-gaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcttcg-gaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttacgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -955,12 +955,12 @@ ttcttggatcgtcgcaagacgaactactgcgaagg-------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664941.1 Paramacrobiotus fairbanksi strain PL.018 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_fairbanksi_PL
 ------------------------------------------------------------
 ------------------------------------------------------------
 -atcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -988,12 +988,12 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctga--------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MT261913.1 Paramacrobiotus filipi strain MY.098 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_filipi_1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---cgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-tgcttcctcgcgaagcaagcgcagttattagaacaaaaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+tgcttcctcgcgaagcaagcgcagttattagaacaaaaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctataacggg
 taacggggtatcacggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -1021,12 +1021,12 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgaaact----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MF568532.1 Paramacrobiotus lachowskae 18S ribosomal RNA gene, partial sequence
+>Paramacrobiotus_lachowskae
 --------------------------------------------------tgcatgtctc
 agtacttgctataacaaggcgaaaccgcgaatggctcattaaatcagttatggttcacta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagatcaatccggccttcgggtcggt
--aaattggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagatcaatccggccttcgggtcgg-
+taaattggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctataacggg
 taacggggtatcatggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagctcggggaggtagtgacgaaaaata
@@ -1054,12 +1054,12 @@ ccctgccctttgtacacmccgcccgtcgctactaccgattgaatgatttagtgaggtytt
 cggactggccatcgaggctaccgcaaggcggcttcggctgattgggaagacgaccaaact
 ggctc-------------------------------------------------------
 ------
->LC637243.1 Paramacrobiotus metropolitanus TYO gene for 18S ribosomal RNA, partial sequence
+>Paramacrobiotus_metropolitanus
 acctggttgatcctgccagtagtcatatgcttgtctcaaagattaagccatgcatgtctc
 agtacttgctataacaaggcgaaaccgcgaatggctcattaaatcagttatggttcacta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttccttgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttccttgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttacgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -1087,12 +1087,12 @@ ccctgccctttgtacacaccgcccgtcgctactaccgattgaatgatttagtgaggtctt
 cggactggccatcgaggctgtcgcaaggcggcttcggctggttggaaagacgaccaaact
 ggctcatttagaggaagtaaaagtcgtaacaaggtttccgtaggtgaacctgcggaagga
 tcatta
->MK041023.1 Paramacrobiotus richtersi isolate CLARE_ISLAND-3_C2714_PrCIIM2 18S ribosomal RNA gene, partial sequence
+>Paramacrobiotus_richtersi
 ------------------------------------------------------------
 -------------------------cgcgaatggctcattaaatcagttatggttcacta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -1120,12 +1120,12 @@ cgaggtaatgattaataggaacagacggggg-cattcgtattgcggcgttagagg-----
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->OK663224.1 Paramacrobiotus richtersi isolate S38.Par.1 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_richtersi_S38_1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------aactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -1153,12 +1153,12 @@ aacca-aagtgcttaggttccgggggaagtatggt-------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MK041024.1 Paramacrobiotus spatialis isolate FORMIGINE-1_C2680_PrFORF3 18S ribosomal RNA gene, partial sequence
+>Paramacrobiotus_spatialis}
 ------------------------------------------------------------
 -------------------------cgcgaatggctcattaaatcagttatggttcacta
 gatcgta-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -1186,12 +1186,12 @@ cgaggtaatgattaataggaacagacggggg-cattcgtattgcggcgttagagg-----
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->OK663225.1 Paramacrobiotus spatialis isolate S107.Par.1 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_spatialis_S107_1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------ggataactgtggtaattctagagctaatacgtgcaaccagct
-cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcggt
--aacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
+cgtttcctcgtgaagcgagcgcagttattagaacaagaccaatccggccttcgggtcgg-
+taacttggtgactctgaataaccgaagcagagcgcatggtctcgtaccggcgccagatct
 ttcaagtgtctgacttatcagcttgttgttaggttatgttcctaacaaggctattacggg
 tgacggggtatcagggtccgataccggagagggagcctgagaaacggctaccacatccaa
 ggaaggcagcaggcgcgcaaattacccactcccagcacggggaggtagtgacgaaaaata
@@ -1219,7 +1219,7 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgaaac-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MH664946.1 Paramacrobiotus tonollii strain US.035 small subunit ribosomal RNA gene, partial sequence
+>Paramacrobiotus_tonolli_US
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------a-ccgtttacacggataactgtggtaattctagagctaatacgtgcaaccagct
@@ -1252,7 +1252,7 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagct----------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MN888371.1 Sisubiotus spectabilis strain FI.067 small subunit ribosomal RNA gene, partial sequence
+>gamma
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------aattacacggataactgtggtaattctagagctaatacgtgcaatcagct
@@ -1285,7 +1285,7 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgaa-------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MN888376.1 Tenuibiotus cf. ciprianoi ES086 strain ES.086 small subunit ribosomal RNA gene, partial sequence
+>Tenuibiotus_cf._ciprianoi
 ------------------------------------------------------------
 ------------------------------------------------------------
 --tcgtatccatttacacggataactgtggtaattctagagctaatacgtgcaatcagct
@@ -1318,7 +1318,7 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctg---------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MN888377.1 Tenuibiotus danilovi strain KG.128 small subunit ribosomal RNA gene, partial sequence
+>Tenuibiotus_danilovi
 ------------------------------------------------------------
 ------------------------------------------------------------
 -atcgtatccatttacacggataactgtggtaattctagagctaatacgtgcaatcagct
@@ -1351,7 +1351,7 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctgat-------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->MN888378.1 Tenuibiotus tenuiformis strain KG.140 small subunit ribosomal RNA gene, partial sequence
+>Tenuibiotus_tenuiformis
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------atccatttacacggataactgtggtaattctagagctaatacgtgcaatcagct
@@ -1384,7 +1384,7 @@ aacca-aagtgcttaggttccgggggaagtatggttgcaaagctg---------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------
->KX810045.1 Tenuibiotus voronkovi 18S ribosomal RNA gene, partial sequence
+>Tenuibiotus_voronkovi
 ------------------------------------------------------------
 ---------------------------------------taaatcagttatggttcacta
 gatcgtatccatttacacggataactgtggtaattctagagctaatacgtgcaatcagct
@@ -1417,7 +1417,7 @@ ccctgccctttgtacacaccgcccgtcgctactaccgattgaatgatttagtgaggtctt
 cggactggccatcgaggctgctgcaaagcggcttcgtctggttgggaagacgaccaaact
 ggctcatttagaggaagtaaaagtcgtaacaaggtttccgtaggtgaac-----------
 ------
->MN443040.1 Tenuibiotus zandrae small subunit ribosomal RNA gene, partial sequence
+>Tenuibiotus_zandrae
 ------------------------------------------------------------
 ----------------------------------------------------------ta
 gatcgta-tcctttacacggataactgtggtaattctagagctaatacgtgcaatcagct

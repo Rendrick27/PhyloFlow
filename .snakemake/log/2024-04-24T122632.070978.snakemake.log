@@ -1,6 +1,0 @@
-Building DAG of jobs...
-WorkflowError:
-MissingInputException: Missing input files for rule Alignment:
-fasta/28S_rRNA.fasa
-MissingInputException: Missing input files for rule ASCN_Download:
-ASCN/28S_rRNA_align.txt
