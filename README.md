@@ -2,7 +2,7 @@
 
 ## Description
 This tool, developed within the scope of xxxxx, aims toxxxxxxx.
-![Pipeline](pipeline.png)
+![Pipeline](./extras/pictures/pipeline.png)
 
 
 ## Requisites
