@@ -64,8 +64,6 @@ rule Best_AICc_model:
         "trim/{sample}.fasta.out",
         "trim/{sample}.fasta.topos",
         "trim/{sample}.fasta.tree"
-    conda:
-        "envs/yamlfile.yaml"
     shell:
         "modeltest-ng -i {input.trim} -t ml > {output}"  
 
@@ -103,8 +101,6 @@ rule maximum_likelihood_tree_step_1:
         "tree/concatenated.fasta.raxml.mlTrees",
         "tree/concatenated.fasta.raxml.rba",
         "tree/concatenated.fasta.raxml.startTree"
-    conda:
-        "envs/yamlfile.yaml"
     params:
         threads=multiprocessing.cpu_count(),
         outgroup="Macrobiotus_rybaki" 
@@ -120,8 +116,6 @@ rule maximum_likelihood_tree_step_2:
         "tree/concatenated.fasta.raxml.bootstraps",
         "tree/concatenated.fasta.raxml.log",
         "tree/concatenated.fasta.raxml.rba"
-    conda:
-        "envs/yamlfile.yaml"
     params:
         threads=multiprocessing.cpu_count(),
         bootstrap_trees=10000000,
@@ -138,8 +132,6 @@ rule maximum_likelihood_tree_step_3:
     output:
         "tree/concatenated.fasta.raxml.bestTree.raxml.support",
         "tree/concatenated.fasta.raxml.bestTree.raxml.log"
-    conda:
-        "envs/yamlfile.yaml"
     params:
         threads=multiprocessing.cpu_count(),
     shell:
