@@ -8,7 +8,7 @@ from python import newick_tree_visualizer
 
 
 # Dataset
-sample_names = [os.path.splitext(os.path.basename(file))[0] for file in glob.glob("ascn/*.txt")]
+sample_names = [os.path.splitext(os.path.basename(file))[0] for file in glob.glob("ascn_/*.txt")]
 
 rule all:
     input:
@@ -16,7 +16,7 @@ rule all:
 
 rule Download_ASCN:
     input:
-        ascn="ascn/{sample}.txt"
+        ascn="ascn_/{sample}.txt"
     output:
         fasta="fasta/{sample}.fasta"  
     run:
