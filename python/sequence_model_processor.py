@@ -1,6 +1,7 @@
-import sys
-import os
 import glob
+import os
+import sys
+
 
 def get_sequence_length(fasta_file):
     """
@@ -10,7 +11,8 @@ def get_sequence_length(fasta_file):
         fasta_file (str): Path to the FASTA file.
 
     Returns:
-        int: The total length of the sequence in the file, excluding header lines and whitespace.
+        int: The total length of the sequence in the file,
+            excluding header lines and whitespace.
     """
     seq_length = 0
     with open(fasta_file, 'r') as file:
@@ -22,13 +24,15 @@ def get_sequence_length(fasta_file):
             seq_length += len(line.strip())
     return seq_length
 
+
 def process_sequences(directory, output_file):
     """
-    Processes each FASTA file in the directory to calculate sequence lengths and generate output
-    based on corresponding model data.
+    Processes each FASTA file in the directory to calculate sequence
+    lengths and generate output based on corresponding model data.
 
     Args:
-        directory (str): Directory containing FASTA files and corresponding model files.
+        directory (str): Directory containing FASTA files
+                        and corresponding model files.
         output_file (str): File to which the formatted output will be written.
     """
     fasta_files = sorted(glob.glob(os.path.join(directory, '*.fasta')))
@@ -55,6 +59,7 @@ def process_sequences(directory, output_file):
     with open(output_file, 'w') as file:
         for output in outputs:
             file.write(output + "\n")
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
