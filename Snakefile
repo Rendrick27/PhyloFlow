@@ -8,7 +8,7 @@ from python import newick_tree_visualizer
 
 
 # Dataset
-sample_names = [os.path.splitext(os.path.basename(file))[0] for file in glob.glob("ascn_/*.txt")]
+sample_names = [os.path.splitext(os.path.basename(file))[0] for file in glob.glob("ascn/*.txt")]
 
 rule all:
     input:
@@ -16,7 +16,7 @@ rule all:
 
 rule Download_ASCN:
     input:
-        ascn="ascn_/{sample}.txt"
+        ascn="ascn/{sample}.txt"
     output:
         fasta="fasta/{sample}.fasta"  
     run:
@@ -106,7 +106,7 @@ rule maximum_likelihood_tree_step_1:
         outgroup="Macrobiotus_rybaki" 
     shell:
         """
-        raxml-ng --msa {input.msa} --model {input.model} --threads {params.threads} --seed 333 --tree pars{{100}},rand{{100}} --force perf_threads --outgroup {params.outgroup}
+        raxml-ng --msa {input.msa} --model {input.model} --threads {params.threads} --seed 27 --tree pars{{100}},rand{{100}} --force perf_threads --outgroup {params.outgroup}
         """
 rule maximum_likelihood_tree_step_2:
     input:
@@ -123,7 +123,7 @@ rule maximum_likelihood_tree_step_2:
         #outgroup="Macrobiotus_rybaki,Sisubiotus_spectabilis,Mesobiotus_datanlanicus" 
     shell: 
         """
-        raxml-ng --bootstrap --msa {input.msa} --model {input.model} --threads {params.threads} --seed 1 --bs-trees autoMRE{{{params.bootstrap_trees}}} --force perf_threads --outgroup {params.outgroup}
+        raxml-ng --bootstrap --msa {input.msa} --model {input.model} --threads {params.threads} --seed 27 --bs-trees autoMRE{{{params.bootstrap_trees}}} --force perf_threads --outgroup {params.outgroup}
         """
 rule maximum_likelihood_tree_step_3:
     input:
@@ -137,7 +137,7 @@ rule maximum_likelihood_tree_step_3:
     shell:
         "raxml-ng --support --tree {input.tree} --bs-trees {input.bootstraps} --threads {params.threads} --force perf_threads"  
 
-rule build_tree_mafft:
+rule build_tree:
     input:
         tree="tree/concatenated.fasta.raxml.bestTree.raxml.support"
     output:
