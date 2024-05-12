@@ -1,6 +1,6 @@
-import os
 import glob
 import multiprocessing
+import os
 from python import down_ascn 
 from python import fasta_cleaner
 from python import concatenate_fastas
