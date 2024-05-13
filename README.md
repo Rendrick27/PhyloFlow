@@ -6,12 +6,21 @@ This tool, developed within the scope of ASB, aims to create a pipeline.
 
 
 ## Requisites
+* txt files with genes;
 * Python;
 * Mafft;
 * modeltest-ng;
 * raxml-ng;
 * Toytree.
 
+### TxT gene files
+```bash
+#TxT formart
+Sequence_name;ascn_number
+
+#Example
+Paramacrobiotus_gadabouti_sp._nov._MD50.1;OP394210
+```
 ## Installation
 ```bash
 # Download the project from GitLab
