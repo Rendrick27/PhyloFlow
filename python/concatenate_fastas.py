@@ -4,17 +4,38 @@ from Bio import SeqIO
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
 
+def preprocess_sequence(sequence):
+    """
+    Replaces all '-' characters with 'n' at the edges of the sequence until a nucleotide is encountered.
+
+    Args:
+        sequence (str): The original sequence from the FASTA file.
+
+    Returns:
+        str: The preprocessed sequence with '-' at the edges replaced by 'n'.
+    """
+    import re
+
+    # Regex to find leading and trailing '-' characters
+    leading_pattern = re.compile(r'^-+')
+    trailing_pattern = re.compile(r'-+$')
+
+    # Replace leading '-' with 'n'
+    sequence = leading_pattern.sub(lambda x: 'n' * len(x.group()), sequence)
+    
+    # Replace trailing '-' with 'n'
+    sequence = trailing_pattern.sub(lambda x: 'n' * len(x.group()), sequence)
+
+    return sequence
+
 def concatenate_fastas(folder_path, output_file):
     """
-    Concatenates sequences from multiple FASTA files within a specified folder and writes a new FASTA file.
+    Concatenates sequences from multiple FASTA files within a specified folder and writes a new FASTA file,
+    after replacing all '-' characters with 'n' on the edges of the sequences.
 
     Args:
         folder_path (str): The path to the folder containing the FASTA files.
         output_file (str): The path to the output file to save the concatenated sequences.
-
-    This function reads all FASTA files in the given directory, concatenates sequences based on their IDs,
-    and writes the concatenated sequences to an output file. If a sequence ID is not found in a file, it
-    pads the sequence with 'n' corresponding to the maximum length of sequences in that file.
     """
     all_sequences = {}
     sequence_order = []
@@ -30,7 +51,7 @@ def concatenate_fastas(folder_path, output_file):
         with open(file_path, 'r') as f:
             for record in SeqIO.parse(f, "fasta"):
                 seq_id = record.id
-                sequence = str(record.seq)
+                sequence = preprocess_sequence(str(record.seq))
                 if seq_id not in all_sequences:
                     all_sequences[seq_id] = {}
                     sequence_order.append(seq_id)

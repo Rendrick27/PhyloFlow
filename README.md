@@ -29,6 +29,7 @@ wget https://github.com/Rendrick27/Assignment_01/archive/refs/heads/main.zip
 # Unzip the folder
 unzip Assignment_01-main.zip
 ```
+Then copy your .txt files into ascn folder.
 
 ## Usage
 ```bash
