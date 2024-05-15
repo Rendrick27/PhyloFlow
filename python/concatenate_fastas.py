@@ -4,9 +4,11 @@ from Bio import SeqIO
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
 
+
 def preprocess_sequence(sequence):
     """
-    Replaces all '-' characters with 'n' at the edges of the sequence until a nucleotide is encountered.
+    Replaces all '-' characters with 'n' at the edges of the sequence until
+        a nucleotide is encountered.
 
     Args:
         sequence (str): The original sequence from the FASTA file.
@@ -21,27 +23,29 @@ def preprocess_sequence(sequence):
     trailing_pattern = re.compile(r'-+$')
 
     # Replace leading '-' with 'n'
-    sequence = leading_pattern.sub(lambda x: 'n' * len(x.group()), sequence)
-    
-    # Replace trailing '-' with 'n'
+    sequence = leading_pattern.sub(lambda x: 'n' * len(x.group()), sequence)    
     sequence = trailing_pattern.sub(lambda x: 'n' * len(x.group()), sequence)
 
     return sequence
 
+
 def concatenate_fastas(folder_path, output_file):
     """
-    Concatenates sequences from multiple FASTA files within a specified folder and writes a new FASTA file,
-    after replacing all '-' characters with 'n' on the edges of the sequences.
+    Concatenates sequences from multiple FASTA files within a specified folder
+        and writes a new FASTA file, after replacing all '-' characters with
+        'n' on the edges of the sequences.
 
     Args:
         folder_path (str): The path to the folder containing the FASTA files.
-        output_file (str): The path to the output file to save the concatenated sequences.
+        output_file (str): The path to the output file to save the
+            concatenated sequences.
     """
     all_sequences = {}
     sequence_order = []
 
     # List and sort FASTA files in the folder
-    fasta_files = [f for f in os.listdir(folder_path) if f.endswith((".fasta", ".fa"))]
+    fasta_files = [f for f in os.listdir(folder_path)
+                   if f.endswith((".fasta", ".fa"))]
     fasta_files.sort()
 
     # Read sequences from each file
@@ -64,19 +68,22 @@ def concatenate_fastas(folder_path, output_file):
     for seq_id in sequence_order:
         concatenated_sequence = ''
         for file_name in fasta_files:
-            sequence = all_sequences[seq_id].get(file_name, 'n' * all_sequences['_max_lengths_' + file_name])
+            sequence = all_sequences[seq_id].get
+            (file_name, 'n' * all_sequences['_max_lengths_' + file_name])
             concatenated_sequence += sequence
         concatenated_sequences[seq_id] = concatenated_sequence
 
     # Write concatenated sequences to the output file
     with open(output_file, 'w') as output:
         for seq_id in sequence_order:
-            record = SeqRecord(Seq(concatenated_sequences[seq_id]), id=seq_id, description="")
+            record = SeqRecord(Seq(concatenated_sequences[seq_id]),
+                               id=seq_id, description="")
             SeqIO.write(record, output, "fasta")
+
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python concatenate_fastas.py <folder_path> <output_file>")
+        print("Usage: python script.py <folder_path> <output_file>")
         sys.exit(1)
 
     folder_path = sys.argv[1]
