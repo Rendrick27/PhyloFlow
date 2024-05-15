@@ -23,7 +23,7 @@ def preprocess_sequence(sequence):
     trailing_pattern = re.compile(r'-+$')
 
     # Replace leading '-' with 'n'
-    sequence = leading_pattern.sub(lambda x: 'n' * len(x.group()), sequence)    
+    sequence = leading_pattern.sub(lambda x: 'n' * len(x.group()), sequence)
     sequence = trailing_pattern.sub(lambda x: 'n' * len(x.group()), sequence)
 
     return sequence
