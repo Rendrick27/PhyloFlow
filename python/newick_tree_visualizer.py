@@ -62,7 +62,7 @@ def tree_generator(infile, outfile):
     labels = [f"{round(float(s), 2)}" if s else "" for s in support_values]
 
     # Create and save the phylogenetic tree plot
-    canvas, axes, mark = tree.draw(node_labels=labels, node_sizes=30, 
+    canvas, axes, mark = tree.draw(node_labels=labels, node_sizes=30,
                                    width=width, height=height, tree_style="n")
     toyplot.svg.render(canvas, outfile)
 

@@ -1,4 +1,4 @@
-# Phylo_flow pipeline 
+# Phylo Flow 
 
 ## Description
 This tool, developed within the scope of ASB, aims to create a pipeline.
