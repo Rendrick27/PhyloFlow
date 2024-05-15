@@ -68,8 +68,7 @@ def concatenate_fastas(folder_path, output_file):
     for seq_id in sequence_order:
         concatenated_sequence = ''
         for file_name in fasta_files:
-            sequence = all_sequences[seq_id].get
-            (file_name, 'n' * all_sequences['_max_lengths_' + file_name])
+            sequence = all_sequences[seq_id].get(file_name, 'n' * all_sequences['_max_lengths_' + file_name])
             concatenated_sequence += sequence
         concatenated_sequences[seq_id] = concatenated_sequence
 
