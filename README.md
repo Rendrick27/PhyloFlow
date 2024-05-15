@@ -60,4 +60,4 @@ You may adjust settings in the Snakemake file, such as threads and bootstraps in
 <p> <a href= "https://github.com/Rendrick27"> Rendrick Carreira - 201901365 </a> </p>
 
 ## License
-MIT License
+GPLv3
