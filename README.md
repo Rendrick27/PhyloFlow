@@ -1,19 +1,21 @@
 # Phylo Flow 
 
 ## Description
-This tool, developed within the scope of ASB, aims to create a pipeline.
+This tool, developed within the scope of ASB.
 ![Pipeline](./extras/pictures/pipeline.png)
 
 
 ## Requisites
-* txt files with genes;
-* Python;
-* Mafft;
-* modeltest-ng;
-* raxml-ng;
-* Toytree.
+* at least one txt files with ascn number;
+* <a href= "https://www.python.org/"> Python </a> & <a href= "hhttps://biopython.org/"> BioPython </a> 
+* <a href= "https://mafft.cbrc.jp/alignment/server/index.html"> Mafft </a>;
+* <a href= "https://github.com/ddarriba/modeltest"> Modeltest-ng </a>;
+* <a href= "https://github.com/amkozlov/raxml-ng"> Raxml-ng </a>;
+* <a href= "https://toytree.readthedocs.io/en/latest/index.html"> Toytree </a>;
+* <a href= "https://snakemake.readthedocs.io/en/stable/#"> Snakemake </a>;
+  
 
-### TxT gene files
+### txt file formart
 ```bash
 #TxT formart
 Sequence_name;ascn_number
@@ -24,22 +26,23 @@ Paramacrobiotus_gadabouti_sp._nov._MD50.1;OP394210
 ## Installation
 ```bash
 # Download the project from GitLab
-wget https://github.com/Rendrick27/Assignment_01/archive/refs/heads/main.zip
+wget https://github.com/Rendrick27/PhyloFlow/archive/refs/heads/main.zip
 
 # Unzip the folder
-unzip Assignment_01-main.zip
+unzip main.zip
 ```
 Then copy your .txt files into ascn folder.
 
 ## Usage
 ```bash
 # Navigate to the Snakemake directory
-cd Assignment_01-main.zip
+cd main.zip
 ```
 Then, run the following command:
 ```bash
 snakemake --use-conda all --cores 1
 ```
+After that it will show a Tree.svg
 
 ## Docker
 ### Build it

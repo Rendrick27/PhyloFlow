@@ -120,7 +120,6 @@ rule maximum_likelihood_tree_step_2:
         threads=multiprocessing.cpu_count(),
         bootstrap_trees=10000000,
         outgroup="Macrobiotus_rybaki" 
-        #outgroup="Macrobiotus_rybaki,Sisubiotus_spectabilis,Mesobiotus_datanlanicus" 
     shell: 
         """
         raxml-ng --bootstrap --msa {input.msa} --model {input.model} --threads {params.threads} --seed 27 --bs-trees autoMRE{{{params.bootstrap_trees}}} --force perf_threads --outgroup {params.outgroup}
