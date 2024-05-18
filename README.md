@@ -25,7 +25,7 @@ Paramacrobiotus_gadabouti_sp._nov._MD50.1;OP394210
 ```
 ## Installation
 ```bash
-# Download the project from GitLab
+# Download the project
 wget https://github.com/Rendrick27/PhyloFlow/archive/refs/heads/main.zip
 
 # Unzip the folder
