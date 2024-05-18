@@ -5,7 +5,7 @@ This tool, developed within the scope of ASB.
 ![Pipeline](./extras/pictures/pipeline.png)
 
 
-## Requisites
+## Requirements
 * at least one txt files with ascn number;
 * <a href= "https://www.python.org/"> Python </a> & <a href= "hhttps://biopython.org/"> BioPython </a> 
 * <a href= "https://mafft.cbrc.jp/alignment/server/index.html"> Mafft </a>;
