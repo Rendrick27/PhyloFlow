@@ -4,7 +4,7 @@ import sys
 def clean_fasta(input_file, output_file):
     """
     Processes a FASTA file to remove all occurrences of the letter 'n'
-        (lowercase) from the DNA sequences.
+        (uppercase) from the DNA sequences.
 
     Args:
     input_file (str): The path to the input FASTA file.
